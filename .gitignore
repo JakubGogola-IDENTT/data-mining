@@ -1,2 +1,4 @@
 *.pdf
 .ipynb_checkpoints
+*.zip
+DM_wykłady
